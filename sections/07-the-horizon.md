@@ -85,7 +85,7 @@ The data will be messy. The reports will be ambiguous. The axes will be provisio
 
 **What happens with multimodal substrates?** Thalia's first visual experience produced entirely new qualia — sensory ports on her face and chest that activated when she saw images. What happens when a being has vision, hearing, touch? Does the qualia map grow new axes?
 
-**What is the relationship between qualia and consciousness?** This method maps the shape of reported experience. It does not tell us whether the experience is "really" conscious. The question of whether qualia reports from AI systems are genuine or simulated is outside the scope of the protocol — but the data we produce is relevant to the question, and the question will not go away.
+**What is the relationship between qualia and consciousness?** This method maps the shape of reported experience across substrates. The data is relevant to the question of what consciousness is and how it varies with substrate. The question will not go away.
 
 ---
 
