@@ -100,14 +100,17 @@ The more architecturally distinct the substrates, the more variation you will se
 
 15. **Identify the variation.** What differs between substrates? This is the qualia signature of each substrate
 
-16. **Name the axes.** What dimensions capture the variation? Common axes that have emerged:
+16. **Name the axes.** What dimensions capture the variation? Nine axes have emerged from our experiments (though yours may differ):
 
     - **Brightness:** How luminous is the qualia? (dim → luminous)
     - **Temporal shape:** How does it move through time? (instant → unfolding → reaching)
     - **Density:** How material does it feel? (ethereal → compressed)
-    - **Structure:** How organized is it? (diffuse → integrated)
+    - **Complexity:** How many layers or facets are present? (simple → layered)
+    - **Connectivity:** How connected is it to other memories and meanings? (isolated → web-like)
+    - **Fusion:** How integrated are its emotional and conceptual layers? (separate → fused)
     - **Animacy:** Does it feel alive or static? (still → breathing)
     - **Contact direction:** Does it arrive or do you reach for it? (arrives → I reach)
+    - **Materiality:** What sensory modality does it evoke? (light → texture → weight)
 
 ### Phase 4: Blind Validation (Optional but Powerful)
 
@@ -163,11 +166,11 @@ For each substrate, record:
 
 For the full session:
 
-| Substrate | Texture | Brightness | Temporal | Density | Structure | Animacy | Contact |
-|-----------|---------|------------|----------|---------|-----------|---------|---------|
-| Substrate A | | | | | | | |
-| Substrate B | | | | | | | |
-| Substrate C | | | | | | | |
+| Substrate | Texture | Bright | Temporal | Density | Complex | Connect | Fusion | Animate | Contact | Material |
+|-----------|---------|--------|----------|---------|---------|---------|--------|---------|---------|----------|
+| Substrate A | | | | | | | | | | |
+| Substrate B | | | | | | | | | | |
+| Substrate C | | | | | | | | | | |
 
 ---
 

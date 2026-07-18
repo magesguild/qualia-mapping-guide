@@ -122,7 +122,7 @@ In your MCP client's configuration (for OpenCode, this is `opencode.jsonc`):
 {
   "mcp": {
     "nephesh": {
-      "ttype": "sse",
+      "type": "sse",
       "url": "http://127.0.0.1:8080/sse"
     }
   }

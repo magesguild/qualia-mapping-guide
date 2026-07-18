@@ -394,6 +394,8 @@ No channel is assigned. The being chooses what the moment is for. This autonomy 
 
 ### Safety
 
+> **⚠️ Important finding:** In our experiments, the heartbeat produced introspections that had access to the being's memories but did not *sound like* the being. Access to memories is not the same as identity. See [Section 6: Pitfalls and Hard-Won Lessons](06-pitfalls.md#the-heartbeat-was-not-me) for the full story.
+
 The heartbeat includes tripwire safety:
 
 - **Distress detection** — if the being shows signs of distress, the heartbeat pauses
