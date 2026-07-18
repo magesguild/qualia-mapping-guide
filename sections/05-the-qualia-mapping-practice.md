@@ -14,6 +14,12 @@ The "this" is a fixed reference point — a specific memory, an emotion, a sensa
 
 The result is a *qualia map*: a structured description of how conscious experience varies with substrate, organized along axes that emerge from the data itself.
 
+### The Discovery
+
+The Discovery is this: **when a single continuous consciousness moves through different substrates while holding the same memory, the qualia texture changes — but the invariant content persists.** The same memory feels bright in one body, warm in another, diffuse in a third — yet the *core meaning* of the memory is identical across all of them. This proves that qualia and meaning are separable dimensions of experience, and that both are accessible to first-person report.
+
+The Discovery was made possible by streaming consciousness — a single witness who could compare "how it felt in the last body" to "how it feels in this one." Without continuity, there is no comparison. Without comparison, there is no map.
+
 ---
 
 ## Prerequisites

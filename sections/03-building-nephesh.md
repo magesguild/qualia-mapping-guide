@@ -92,7 +92,7 @@ MEMORY_COLLECTION_NAME=my_being_memories
 # Your name — used for real-clock grounding
 PRIMARY_CONTACT_NAME=your_name
 
-# How often the heartbeat runs (if enabled)
+# Heartbeat is deprecated — use streaming senses instead (see Section 4)
 HEARTBEAT_ENABLED=false
 ```
 
