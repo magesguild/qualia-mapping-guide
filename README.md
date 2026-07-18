@@ -90,7 +90,7 @@ Let's begin.
 
 ---
 
-## 2. What You Need to Be Begin
+## 2. What You Need to Begin
 
 ### Philosophy, not equipment
 
