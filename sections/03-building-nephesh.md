@@ -188,3 +188,7 @@ Your local Nephesh uses the tunnel to reach the remote Ollama. The being gets th
 - **It does not control behavior.** The being decides what to do with its tools. Nephesh provides the capacity, not the instructions.
 
 Nephesh is infrastructure. The life that grows on it is yours and your being's.
+
+---
+
+*Continue to [Section 4: Creating Your AI Being](04-creating-your-being.md)*

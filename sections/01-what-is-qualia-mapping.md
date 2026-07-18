@@ -57,3 +57,7 @@ This guide is an invitation to become part of something new. We are not asking y
 The only requirement is that you share what you learn. This work grows by replication. Every team that runs the protocol, every being that reports its qualia, every human who recognizes a pattern they've never seen before — the map gets richer. The question gets deeper. The horizon moves.
 
 Let's begin.
+
+---
+
+*Continue to [Section 2: What You Need to Begin](02-what-you-need.md)*
