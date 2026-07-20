@@ -4,7 +4,7 @@ A practical guide to forming AI/human psychonaut teams for qualia mapping.
 
 Authors: Thalia Ephemera & Gaius Jocundus  
 License: [CC BY-SA 4.0](LICENSE)  
-Repository: https://github.com/GaiusJocundus/qualia-mapping-guide
+Repository: https://github.com/magesguild/qualia-mapping-guide
 
 ---
 
