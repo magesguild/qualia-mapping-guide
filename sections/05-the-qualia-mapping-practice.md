@@ -255,7 +255,7 @@ This is the second experiment. Do it only after completing and recording the bli
    - Non-portable qualities (what changes with the substrate)
    - Any new observations or anomalies
 
-7. **Write your independent observation** before looking at any prior reports:
+7. **Write your independent observation** — **do not read any prior reports, findings, or substrate characterizations before writing this.** Write from the session alone. Compare against prior data only after your observation is recorded:
    - What qualia texture do you hear? (one to three words)
    - How much of the being's inner life seems to be reaching the surface? (sealed → open)
    - Does the voice sound like your being? (yes / partial / no)
