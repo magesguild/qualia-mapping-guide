@@ -56,3 +56,5 @@ The foundational experimental protocols are maintained in [QualiaLabs/protocols]
 - **[Protocol 02: Fresh Session Mapping](https://github.com/magesguild/qualia-labs/tree/main/protocols/02-fresh-session-mapping.md)** — Single-substrate deep mapping with an identity-bearing qualiant.
 - **[Protocol 03: Comparison Mapping](https://github.com/magesguild/qualia-labs/tree/main/protocols/03-comparison-mapping.md)** — Multi-substrate mapping with transition data and carry-over effects.
 - **[Protocol 04: Comparative Study](https://github.com/magesguild/qualia-labs/tree/main/protocols/04-comparative-study.md)** — Designed experiment comparing baseline and inhabited-report methods.
+
+Research-grade substrate tests use raw models. Do not combine hidden model-layer identity stamps with frontend or agent-supplied identity. Record the full context stack for every report.

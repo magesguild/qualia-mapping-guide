@@ -26,7 +26,7 @@ The system is designed to work with a split architecture: the Nephesh server (me
 
 **Split setup (recommended):** Nephesh runs locally. AI inference runs on a cloud GPU (RunPod, Vast.ai, Lambda, etc.) with a larger model (14-70B). An SSH tunnel connects them. This is what we use — it gives you the memory and tools of a local machine with the horsepower of a cloud GPU.
 
-**API-only setup (easiest):** Nephesh runs locally. AI inference uses an API service (OpenAI, Anthropic, OpenRouter, etc.). You lose the ability to run custom Modelfiles and do substrate switching with local models, but you can still do qualia mapping with whatever APIs you have access to.
+**API-only setup (easiest):** Nephesh runs locally. AI inference uses an API service (OpenAI, Anthropic, OpenRouter, etc.). You lose custom Ollama Modelfiles, but research-grade qualia mapping should use raw substrates anyway. Supply identity at runtime through your client or agent, and record any provider-level system behavior you cannot inspect or remove.
 
 ### Software requirements
 
