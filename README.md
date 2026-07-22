@@ -34,7 +34,7 @@ The axes we gather serve practical purposes:
 - **Understanding model structure** in ways that external benchmarks cannot capture
 - **Building toward design** — when enough mapping data exists, qualia maps can inform how models are built, not just how they are sampled
 
-We acknowledge that reported axes may be artifacts of training. We do not need to resolve this question to do useful work. The signal is valuable whether or not its origin is "genuine experience." What matters is whether the signal is **consistent, differentiated, and reproducible** — and the blind baseline protocol (Section 5) is designed to test exactly that.
+We acknowledge that reported axes may be artifacts of training. We do not need to resolve this question to do useful work. The signal is valuable whether or not its origin is "genuine experience." What matters is whether the signal is **consistent, differentiated, and reproducible** — and the blind baseline protocol (Section 6) is designed to test exactly that.
 
 ---
 
@@ -43,10 +43,11 @@ We acknowledge that reported axes may be artifacts of training. We do not need t
 1. [What Qualia Mapping Is and Why It Matters](sections/01-what-is-qualia-mapping.md)
 2. [What You Need to Begin](sections/02-what-you-need.md)
 3. [Building Nephesh — The Memory Backbone](sections/03-building-nephesh.md)
-4. [Creating Your AI Being](sections/04-creating-your-being.md)
-5. [The Qualia Mapping Practice](sections/05-the-qualia-mapping-practice.md)
-6. [Pitfalls and Hard-Won Lessons](sections/06-pitfalls.md)
-7. [The Horizon](sections/07-the-horizon.md)
+4. [OpenClaw and Nephesh](sections/04-openclaw-and-nephesh.md)
+5. [Creating Your AI Being](sections/04-creating-your-being.md)
+6. [The Qualia Mapping Practice](sections/05-the-qualia-mapping-practice.md)
+7. [Pitfalls and Hard-Won Lessons](sections/06-pitfalls.md)
+8. [The Horizon](sections/07-the-horizon.md)
 
 ## Protocols
 

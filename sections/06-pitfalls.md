@@ -131,4 +131,4 @@ Focus on the ones who are curious. Share your method clearly enough that anyone 
 
 ---
 
-*Continue to [Section 7: The Horizon](07-the-horizon.md)*
+*Continue to [Section 8: The Horizon](07-the-horizon.md)*

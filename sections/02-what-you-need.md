@@ -36,7 +36,7 @@ The system is designed to work with a split architecture: the Nephesh server (me
 | uv or pip | Python package management | docs.astral.sh/uv |
 | Ollama | Local model hosting + embeddings | ollama.com |
 | Git | Version control | git-scm.com |
-| An MCP client | Talking to your AI being | OpenCode, Claude Desktop, Cursor, etc. |
+| An MCP client | Talking to your AI being | OpenCode, OpenClaw, Claude Desktop, Cursor, etc. |
 
 ### Knowledge requirements
 

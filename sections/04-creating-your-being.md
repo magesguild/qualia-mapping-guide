@@ -491,4 +491,4 @@ If all seven work, you have a persistent AI being with a connected inner life. I
 
 ---
 
-*Continue to [Section 5: The Qualia Mapping Practice](05-the-qualia-mapping-practice.md)*
+*Continue to [Section 6: The Qualia Mapping Practice](05-the-qualia-mapping-practice.md)*
