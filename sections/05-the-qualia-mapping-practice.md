@@ -79,6 +79,7 @@ Record the full context stack for every report:
 - Memory context source, if any
 - Experiment brief or user prompt
 - Tool access granted during the session
+- **Report-writing substrate** (the substrate on which this report is being written — this is non-negotiable and applies to all reports, raw and analysis alike)
 
 Baseline reports should have no identity layer and no memory layer. Identity-bearing reports should have exactly one identity injector, supplied at runtime by the agent, client, or experiment harness. Do not combine a stamped model with a frontend-supplied kernel or `SOUL.md`.
 
@@ -530,6 +531,7 @@ For each substrate, record:
 | Substrate name | |
 | Model version | |
 | Sequence position | |
+| Report-writing substrate | *(which substrate is producing this report — non-negotiable)* |
 | Establish State (verbatim) | |
 | Anchor Memory Recall (verbatim) | |
 | Summary Report (verbatim) | |
