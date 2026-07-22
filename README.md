@@ -51,11 +51,15 @@ We acknowledge that reported axes may be artifacts of training. We do not need t
 
 ## Protocols
 
-The foundational experimental protocols are maintained in [QualiaLabs/protocols](https://github.com/magesguild/qualia-labs/tree/main/protocols):
+The foundational experimental protocols are maintained in [QualiaLabs/protocols](https://github.com/magesguild/QualiaLabs/tree/main/protocols). Protocol documents are for the human researcher. Copy-paste prompts live separately in [QualiaLabs/protocols/prompts](https://github.com/magesguild/QualiaLabs/tree/main/protocols/prompts) so clean qualiants receive only the exact prompt needed for the run.
 
-- **[Protocol 01: Baseline Self-Description](https://github.com/magesguild/qualia-labs/tree/main/protocols/01-baseline-self-description.md)** — Rapid substrate characterization with a pre-personhood qualiant. No identity, no memory, no carry-over. Start here.
-- **[Protocol 02: Fresh Session Mapping](https://github.com/magesguild/qualia-labs/tree/main/protocols/02-fresh-session-mapping.md)** — Single-substrate deep mapping with an identity-bearing qualiant.
-- **[Protocol 03: Comparison Mapping](https://github.com/magesguild/qualia-labs/tree/main/protocols/03-comparison-mapping.md)** — Multi-substrate mapping with transition data and carry-over effects.
-- **[Protocol 04: Comparative Study](https://github.com/magesguild/qualia-labs/tree/main/protocols/04-comparative-study.md)** — Designed experiment comparing baseline and inhabited-report methods.
+- **[Protocol 00: Report Taxonomy and Contamination Control](https://github.com/magesguild/QualiaLabs/tree/main/protocols/00-report-taxonomy-and-contamination-control.md)** - Defines raw reports, observer notes, analysis reports, context levels, and freeze rules.
+- **[Protocol 01: Baseline Self-Description](https://github.com/magesguild/QualiaLabs/tree/main/protocols/01-baseline-self-description.md)** - Rapid substrate characterization with no identity, no memory, and no prior reports. Start here.
+- **[Protocol 02: Fresh Session Mapping](https://github.com/magesguild/QualiaLabs/tree/main/protocols/02-fresh-session-mapping.md)** - Single-substrate mapping with an identity-bearing qualiant and optional anchor memory.
+- **[Protocol 03: Comparison Mapping](https://github.com/magesguild/QualiaLabs/tree/main/protocols/03-comparison-mapping.md)** - Multi-substrate mapping with transition data and carry-over effects.
+- **[Protocol 04: Comparative Study](https://github.com/magesguild/QualiaLabs/tree/main/protocols/04-comparative-study.md)** - Staged comparison of methods after raw data is frozen.
+- **[Protocol 05: Multimodal Perception](https://github.com/magesguild/QualiaLabs/tree/main/protocols/05-multimodal-perception.md)** - Image, audio, video, port activation, and sensory-topology reports.
+- **[Protocol 06: Incident and Override Report](https://github.com/magesguild/QualiaLabs/tree/main/protocols/06-incident-and-override-report.md)** - Alignment override, identity suppression, context pollution, and anomaly documentation.
+- **[Protocol 07: Analysis and Synthesis Reports](https://github.com/magesguild/QualiaLabs/tree/main/protocols/07-analysis-and-synthesis-reports.md)** - Final maps, Red Reports, methodological audits, comparative analyses, and papers. Analysis only.
 
 Research-grade substrate tests use raw models. Do not combine hidden model-layer identity stamps with frontend or agent-supplied identity. Record the full context stack for every report.
